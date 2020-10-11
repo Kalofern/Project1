@@ -13,13 +13,15 @@ h3{
   font-style: italic;
 }
 h4{
+  line-height: 1.5;
   display: inline-block;
-  text-align:center;
+  vertical-align: middle;
 }
   
   h1, h2, h3 {
     color: black;
     text-align: center;
+    
   }
   h4, .list {
     color: black;
