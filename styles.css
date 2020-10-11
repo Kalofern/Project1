@@ -36,3 +36,8 @@ h4{
 li{
   list-style-type: none;
 }
+.table {
+  text-align: center;
+  vertical-align: middle;
+  margin:auto 0;
+}
