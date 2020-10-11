@@ -1,7 +1,13 @@
 html {font-family: 'Poppins', sans-serif;
+
+}
+a 
+{
+  color: black
 }
 body {
     background-color: #3845;
+    color: rgba(0, 0, 0, 0.445)
   }
   
   h1, h2, h3 {
@@ -9,7 +15,9 @@ body {
     text-align: center;
   }
   h4, .list {
-      color: rgba(0, 0, 0, 0.445)
+    color: black;
+    font-kerning: .200;
+      
   }
   
   
