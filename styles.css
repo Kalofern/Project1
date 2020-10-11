@@ -9,6 +9,10 @@ body {
     background-color: #3845;
     color: rgba(0, 0, 0, 0.445)
   }
+h3{
+  padding: ;
+  font-style: italic;
+}
   
   h1, h2, h3 {
     color: black;
@@ -19,5 +23,7 @@ body {
     font-kerning: .200;
       
   }
-  
+table{
+
+}
   
