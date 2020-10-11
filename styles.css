@@ -1,15 +1,15 @@
 html {font-family: 'Poppins', sans-serif;
 }
 body {
-    background-color: white;
+    background-color: #3845;
   }
   
   h1, h2, h3 {
     color: black;
     text-align: center;
   }
-  h4 {
-      color: gray
+  h4, .list {
+      color: rgba(0, 0, 0, 0.445)
   }
   
   
