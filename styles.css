@@ -12,6 +12,10 @@ body {
 h3{
   font-style: italic;
 }
+h4{
+  display: inline-block;
+  text-align:center;
+}
   
   h1, h2, h3 {
     color: black;
