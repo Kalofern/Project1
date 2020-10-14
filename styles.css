@@ -1,0 +1,43 @@
+html {font-family: 'Poppins', sans-serif;
+
+}
+a 
+{
+  color: black
+}
+body {
+    background-color: #3845;
+    color: rgba(0, 0, 0, 0.445)
+  }
+h3{
+  font-style: italic;
+}
+h4{
+  padding-left: 20px;
+  text-align: center;
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+}
+  
+  h1, h2, h3 {
+    color: black;
+    text-align: center;
+    
+  }
+  h4, .list {
+    color: black;
+    font-kerning: .200;
+      
+  }
+.contact{
+ text-align: center;
+}
+li{
+  list-style-type: none;
+}
+.table {
+  text-align: center;
+  vertical-align: middle;
+  margin:auto 0;
+}
